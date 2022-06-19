@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Project-Number-NFT-Beta/static/css/main.894e1da6.css",
-    "main.js": "/Project-Number-NFT-Beta/static/js/main.8ef6836f.js",
+    "main.js": "/Project-Number-NFT-Beta/static/js/main.4f660e06.js",
     "static/js/937.a617daa3.chunk.js": "/Project-Number-NFT-Beta/static/js/937.a617daa3.chunk.js",
     "static/js/787.0f148dca.chunk.js": "/Project-Number-NFT-Beta/static/js/787.0f148dca.chunk.js",
     "static/media/impact.ttf": "/Project-Number-NFT-Beta/static/media/impact.0294f8285a2493417c09.ttf",
     "index.html": "/Project-Number-NFT-Beta/index.html",
     "main.894e1da6.css.map": "/Project-Number-NFT-Beta/static/css/main.894e1da6.css.map",
-    "main.8ef6836f.js.map": "/Project-Number-NFT-Beta/static/js/main.8ef6836f.js.map",
+    "main.4f660e06.js.map": "/Project-Number-NFT-Beta/static/js/main.4f660e06.js.map",
     "937.a617daa3.chunk.js.map": "/Project-Number-NFT-Beta/static/js/937.a617daa3.chunk.js.map",
     "787.0f148dca.chunk.js.map": "/Project-Number-NFT-Beta/static/js/787.0f148dca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.894e1da6.css",
-    "static/js/main.8ef6836f.js"
+    "static/js/main.4f660e06.js"
   ]
 }
